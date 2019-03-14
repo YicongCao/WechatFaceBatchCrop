@@ -10,6 +10,10 @@
 
 经过裁切后，图片会保存到 `faces_cropped` 目录和 `misc_cropped` 目录。
 
+![裁切后](https://ws2.sinaimg.cn/large/006tKfTcgy1g12ptlx66xj30mm0bstau.jpg)
+
+![表情后台](https://ws3.sinaimg.cn/large/006tKfTcgy1g12psmwsd5j30zu0u01kx.jpg)
+
 ## 尺寸列表
 
 微信官方文档的说明不包括引导赞赏图和感谢图，下面这些就是上传微信表情全部的尺寸要求了。
